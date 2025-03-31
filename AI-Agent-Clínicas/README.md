@@ -8,22 +8,17 @@ Este agente de IA foi desenvolvido para automatizar a comunicação e gestão de
 ✅ Envia lembretes automáticos para reduzir faltas e melhorar a eficiência
 
 ### 🎯 Para quem é útil?
-🔹 Clínicas médicas e odontológicas
-🔹 Consultórios particulares
-🔹 Centros de saúde que querem reduzir carga operacional
+- 🔹 Clínicas médicas e odontológicas
+- 🔹 Consultórios particulares
+- 🔹 Centros de saúde que querem reduzir carga operacional
 
 ### ⚙️ Tecnologias utilizadas
-N8N para automação de processos
-
-Supabase para armazenamento de dados
-
-Redis para otimização de respostas
-
-WhatsApp API para comunicação direta
-
-ChatGPT para interações inteligentes
+- N8N para automação de processos
+- Supabase para armazenamento de dados
+- Redis/PostgreSQL para otimização de respostas
+- WhatsApp API/Evolution API para comunicação direta
+- GPT 4o para interações inteligentes
 
 ### 🖼️ Prints do Workflow
-(Imagens do fluxo no N8N mostrando as etapas, mas sem código completo)
 
 ### 📌 Entre em contato para personalização e implementação!
