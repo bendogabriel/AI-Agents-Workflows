@@ -32,5 +32,5 @@ Este agente de IA foi desenvolvido para automatizar a comunicação e gestão de
   <a href="https://www.linkedin.com/in/gabriel-bendo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/agencianexateam" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="mailto:gmbendo14@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.nexateam.com.br/homenexa"><img src="https://github.com/user-attachments/assets/d0c56062-1934-42ff-8712-514f7072d5f8" target="_blank"></a>
+  <a href="https://www.nexateam.com.br/homenexa"><img src="https://github.com/user-attachments/assets/d0c56062-1934-42ff-8712-514f7072d5f8style=for-the-badge&logo=nexa&logoColor=white" target="_blank"></a>
 </div>
