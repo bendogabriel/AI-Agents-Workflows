@@ -10,6 +10,11 @@
 
 ---
 
+## 🐱‍💻 Agente Principal
+![Agente Pessoal](https://github.com/user-attachments/assets/37e09596-3a05-4216-ad62-0cac722b7348)
+
+---
+
 ## 📅 **Fluxo da Agenda**  
 📌 **Objetivo:** Criar, gerenciar e lembrar compromissos automaticamente.  
 
@@ -20,7 +25,6 @@
 
 🖼 **Fluxo do Agente Agenda:**  
 ![Fluxo Agenda](https://github.com/user-attachments/assets/0c2356f0-fbb5-4a52-8cbf-accb6bf0ba65)
-
 
 ---
 
@@ -35,7 +39,6 @@
 🖼 **Fluxo do Agente E-mail:**  
 ![Fluxo E-mail](https://github.com/user-attachments/assets/ed2177f2-6243-4845-84f9-b852c8e5bff9)
 
-
 ---
 
 ### 📌 Entre em contato para personalização e implementação!
@@ -47,5 +50,3 @@
   <a href="https://www.nexateam.com.br/homenexa" target="_blank"><img src="https://github.com/user-attachments/assets/d0c56062-1934-42ff-8712-514f7072d5f8" width="35px" height="30px"></a>
 
 </div>
-
-
