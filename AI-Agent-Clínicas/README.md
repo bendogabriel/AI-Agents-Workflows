@@ -27,3 +27,9 @@ Este agente de IA foi desenvolvido para automatizar a comunicação e gestão de
 ![Processamento](https://github.com/user-attachments/assets/53495b15-0711-4c6c-9a1c-8dae9cba60bd)
 
 ### 📌 Entre em contato para personalização e implementação!
+<div> 
+  <a href="https://github.com/bendogabriel" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gabriel-bendo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/bendo.gabriel" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="mailto:gmbendo14@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
