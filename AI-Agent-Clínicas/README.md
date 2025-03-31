@@ -3,11 +3,8 @@
 Este agente de IA foi desenvolvido para automatizar a comunicação e gestão de atendimentos em clínicas, otimizando processos e melhorando a experiência dos pacientes.
 
 ✅ Responde automaticamente mensagens de pacientes via WhatsApp, e-mail ou chatbot
-
 ✅ Agenda consultas e confirma horários de forma automatizada
-
 ✅ Classifica e segmenta pacientes com base em sintomas ou histórico
-
 ✅ Envia lembretes automáticos para reduzir faltas e melhorar a eficiência
 
 ### 🎯 Para quem é útil?
