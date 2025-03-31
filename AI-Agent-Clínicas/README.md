@@ -20,7 +20,10 @@ Este agente de IA foi desenvolvido para automatizar a comunicação e gestão de
 - GPT 4o para interações inteligentes
 
 ### 🖼️ Prints do Workflow
+### 1️⃣ Agente Principal
+![Agente Principal](https://github.com/user-attachments/assets/0123e258-615d-414f-8ef0-f0b6bcddce30)
 
-
+### 2️⃣ Agente para Agendamento
+![Processamento](https://github.com/user-attachments/assets/53495b15-0711-4c6c-9a1c-8dae9cba60bd)
 
 ### 📌 Entre em contato para personalização e implementação!
