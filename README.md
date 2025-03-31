@@ -1,11 +1,6 @@
 ## 🚀 AI Agents & Workflows - Automação Inteligente
 Bem-vindo ao repositório de Agentes de IA e Workflows no N8N, desenvolvidos para automatizar processos empresariais e aumentar a eficiência de negócios. Aqui você encontrará documentações detalhadas sobre cada agente, incluindo imagens, funcionalidades e possíveis integrações.
 
-## 📌 O que você encontrará aqui?
-✅ Agentes de IA personalizados para diferentes setores
-✅ Workflows de automação no N8N para otimizar operações
-✅ Explicações detalhadas sobre cada projeto, sem disponibilizar código completo
-
 ## 🚀 Tecnologias utilizadas:
 <div style="display: inline_block"><br> <img align="center" alt="N8N" height="30" width="40" src="https://n8n.io/favicon.ico"> <img align="center" alt="Supabase" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/supabase/supabase-original.svg"> <img align="center" alt="Redis" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg"> <img align="center" alt="DigitalOcean" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original-wordmark.svg"> <img align="center" alt="Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"> <img align="center" alt="PostgreSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"> </div>
 
