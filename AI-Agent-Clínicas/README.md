@@ -21,4 +21,6 @@ Este agente de IA foi desenvolvido para automatizar a comunicação e gestão de
 
 ### 🖼️ Prints do Workflow
 
+
+
 ### 📌 Entre em contato para personalização e implementação!
