@@ -6,7 +6,7 @@
 ## 🔹 **Tecnologias Utilizadas**  
 ✅ **N8N** → Orquestração do fluxo de automação  
 ✅ **Firecrawl** → Extração e processamento de dados  
-✅ **MCP (Multi-Channel Processing)** → Paralelização de requisições  
+✅ **MCP (Model Context Protocol)** → Paralelização de requisições  
 
 
 ## 📌 **Como Funciona?**  
