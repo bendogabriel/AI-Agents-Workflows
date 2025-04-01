@@ -4,7 +4,7 @@ Este projeto facilita a criação de instâncias na Evolution através de um QR 
 
 ## 🚀 Como Funciona?
 1. O usuário acessa a página HTML
-(![image](https://github.com/user-attachments/assets/f2fd09f6-cbde-438a-8ec2-9f529f9d22c1)).
+![image](https://github.com/user-attachments/assets/f2fd09f6-cbde-438a-8ec2-9f529f9d22c1).
 3. Insere o nome da instância desejada.
 4. O sistema gera o QR Code automaticamente e cria a instância na Evolution.
 
