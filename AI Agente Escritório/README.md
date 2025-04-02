@@ -19,11 +19,11 @@ Após o direcionamento, o agente pausa suas respostas e só volta a interagir qu
 - Retomada da automação apenas quando a conversa for resolvida.
 
 ## 🏆 Benefícios da Automação
-✅ **Agilidade no atendimento:** Clientes são direcionados rapidamente para o setor correto, reduzindo tempo de espera.
-✅ **Redução de erros humanos:** O direcionamento é feito de forma automática, evitando mal-entendidos.
-✅ **Melhor experiência do cliente:** Atendimento mais rápido e eficiente melhora a satisfação dos clientes.
-✅ **Otimização do tempo da equipe:** Os atendentes focam apenas nas interações que realmente precisam de atenção humana.
-✅ **Escalabilidade:** Possibilidade de adicionar novos setores e ferramentas conforme a necessidade da empresa.
+- ✅ **Agilidade no atendimento:** Clientes são direcionados rapidamente para o setor correto, reduzindo tempo de espera.
+- ✅ **Redução de erros humanos:** O direcionamento é feito de forma automática, evitando mal-entendidos.
+- ✅ **Melhor experiência do cliente:** Atendimento mais rápido e eficiente melhora a satisfação dos clientes.
+- ✅ **Otimização do tempo da equipe:** Os atendentes focam apenas nas interações que realmente precisam de atenção humana.
+- ✅ **Escalabilidade:** Possibilidade de adicionar novos setores e ferramentas conforme a necessidade da empresa.
 
 ## 🛠️ Tecnologias Utilizadas
 - **N8N** → Automação de workflows.
