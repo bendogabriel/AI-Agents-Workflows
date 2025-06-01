@@ -6,15 +6,17 @@ Este workflow no **N8N** automatiza o envio de e-mails com base em uma planilha 
 ### 🔗 **Fluxo da Automação**  
 
 1. **Gatilho Manual** → O fluxo inicia quando o botão "Test Workflow" é acionado.  
-2. **Leitura do Google Sheets** → Obtém os dados da planilha, como e-mails e mensagens personalizadas.  
+2. **Leitura do Google Sheets** → Obtém os dados da planilha, como e-mails e mensagens personalizadas, no qual o status está nulo.  
 3. **Loop sobre os itens** → Percorre cada linha da planilha.  
 4. **Divisão de Dados** → Separa as informações necessárias para o e-mail.  
 5. **Envio de E-mail (Gmail)** → Dispara o e-mail automaticamente.  
 6. **Espera** → Adiciona um delay antes de continuar (opcional).  
-7. **Finalização** → Prepara o fluxo para uma ação futura.  
+7. **Altera o Status** → Altera o status da planilha.
+8. **Loop** → Retorna para o Loop
 
 ## 👤 Workflow
-![image](https://github.com/user-attachments/assets/ab95dd1f-910e-4695-94e7-6dd97e0804f7)
+![image](https://github.com/user-attachments/assets/f7e0eb80-1ab1-41ea-8ca4-b9721aaa331d)
+
 
 ## 📌 Contribuição
 Sinta-se à vontade para sugerir melhorias ou abrir **Issues**!
