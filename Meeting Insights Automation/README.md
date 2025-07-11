@@ -31,7 +31,7 @@ Este projeto automatiza o ciclo completo de uma reunião, desde a transcrição 
 ```
 <img width="1405" height="499" alt="image" src="https://github.com/user-attachments/assets/b7aeb319-35c0-45d1-a57d-ccadeeb7fe7d" />
 
-📌 ## Contribuição
+### 📌 Contribuição
 Sinta-se à vontade para sugerir melhorias ou abrir Issues!
 
 ### 📌 Entre em contato para personalização e implementação!
